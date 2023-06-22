@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">test</string>
+
+    <string-array name="items">
+        <item>Hint</item>
+        <item>Revive</item>
+        <item>Remove Option</item>
+    </string-array>
+    <string-array name="prices">
+        <item>350</item>
+        <item>250</item>
+        <item>150</item>
+    </string-array>
+</resources>
